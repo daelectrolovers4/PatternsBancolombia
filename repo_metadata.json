@@ -35,7 +35,7 @@
                 "feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.feature.group",
                 "nl_feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://bancolombia.sharepoint.com/:u:/r/teams/IIB10_Patterns/Patterns/2.0.0.5/ServiceMediatorIIB10.patternzip?csf=1&e=IoUVw9",
+                "patternzipURL" : "https://bancolombia.sharepoint.com/:u:/r/teams/IIB10_Patterns/Patterns/2.0.0.5/ServiceMediatorIIB10.patternzip",
                 "patternzipSize" : "152 KB"
               }
 			  
@@ -54,7 +54,7 @@
                 "feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.feature.group",
                 "nl_feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://bancolombia.sharepoint.com/:u:/r/teams/IIB10_Patterns/Patterns/1.0.0.0/ConsumerMediatorIIB10.patternzip?csf=1&e=KGYLsH",
+                "patternzipURL" : "https://bancolombia.sharepoint.com/:u:/r/teams/IIB10_Patterns/Patterns/1.0.0.0/ConsumerMediatorIIB10.patternzip",
                 "patternzipSize" : "30568 KB"
               }
             ]
