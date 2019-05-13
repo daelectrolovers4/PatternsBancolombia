@@ -26,7 +26,7 @@
             "id" : "com.bancolombia.ServiceMediatorIIB10",
             "name": "Service Mediator",
             "category_id": "com.ibm.etools.pattern.bancolombia.services.components",            
-            "doc_url": "https://bancolombia.sharepoint.com/:u:/r/teams/IIB10_Patterns/SitePages/IIB10_Patterns%20-%20Service%20Mediator.aspx",
+            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.3/pattern.doc/overview.htm",
             "ibm_supported": false,
             "versions" :
             [
@@ -45,7 +45,7 @@
             "id" : "com.bancolombia.ConsumerMediatorIIB10",
             "name": "Consumer Mediator",
             "category_id": "com.ibm.etools.pattern.bancolombia.services.components",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/pattern.doc/overview.htm",
+            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ConsumerMediatorIIB10/pattern.doc/overview.htm",
             "ibm_supported": false,
             "versions" :
             [
