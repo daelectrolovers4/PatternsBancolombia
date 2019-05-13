@@ -26,7 +26,7 @@
             "id" : "com.bancolombia.ServiceMediatorIIB10",
             "name": "Service Mediator",
             "category_id": "com.ibm.etools.pattern.bancolombia.services.components",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.3/pattern.doc/overview.htm",
+            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.5/pattern.doc/overview.htm",
             "ibm_supported": false,
             "versions" :
             [
@@ -35,7 +35,7 @@
                 "feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.feature.group",
                 "nl_feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://bancolombia-my.sharepoint.com/:u:/r/personal/dasagude_bancolombia_com_co/Documents/IIB10/Patterns/2.0.0.5/ServiceMediatorIIB10/ServiceMediatorIIB10.patternzip",
+                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.5/ServiceMediatorIIB10.patternzip",
                 "patternzipSize" : "152 KB"
               }
 			  
@@ -54,8 +54,8 @@
                 "feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.feature.group",
                 "nl_feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://bancolombia.sharepoint.com/:u:/r/teams/IIB10_Patterns/Patterns/1.0.0.0/ConsumerMediatorIIB10.patternzip",
-                "patternzipSize" : "30568 KB"
+                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ConsumerMediatorIIB10/ConsumerMediatorIIB10.patternzip",
+                "patternzipSize" : "17110 KB"
               }
             ]
         }
