@@ -35,8 +35,8 @@
                 "feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.feature.group",
                 "nl_feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.5/ServiceMediatorIIB10.patternzip",
-                "patternzipSize" : "152 KB"
+                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.6/ServiceMediatorIIB10.patternzip",
+                "patternzipSize" : "160 KB"
               }
 			  
             ]
