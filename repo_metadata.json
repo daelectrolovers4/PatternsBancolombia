@@ -45,7 +45,7 @@
             "id" : "com.bancolombia.ConsumerMediatorIIB10",
             "name": "Consumer Mediator",
             "category_id": "com.ibm.etools.pattern.bancolombia.services.components",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ConsumerMediatorIIB10/pattern.doc/overview.htm",
+            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.1/pattern.doc/overview.htm",
             "ibm_supported": false,
             "versions" :
             [
