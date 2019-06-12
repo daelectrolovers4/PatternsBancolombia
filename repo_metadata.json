@@ -36,7 +36,7 @@
                 "nl_feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.8/ServiceMediatorIIB10.patternzip",
-                "patternzipSize" : "160 KB"
+                "patternzipSize" : "337 KB"
               }
 			  
             ]
@@ -55,7 +55,7 @@
                 "nl_feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.4/ConsumerMediatorIIB10.patternzip",
-                "patternzipSize" : "17110 KB"
+                "patternzipSize" : "17725 KB"
               }
             ]
         }
