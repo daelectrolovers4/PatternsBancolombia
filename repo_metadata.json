@@ -84,11 +84,29 @@
                 "feature_group_name" : "com.bancolombia.IAWSSOAPIIB10.Feature.feature.group",
                 "nl_feature_group_name" : "com.bancolombia.IAWSSOAPIIB10.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSSOAPIIB10/IA_WS_SOAP_IIB10.patternzip",
+                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSSOAPIIB10/IAWSSOAPIIB10.patternzip",
                 "patternzipSize" : "179 KB"
               }
             ]
         },
+		{
+            "id" : "com.bancolombia.IAWSHTTPIIB10",
+            "name": "Integration Adapter WS - SOAP",
+            "category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",            
+            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/pattern.doc/overview.htm",
+            "ibm_supported": false,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "10*" ],
+                "feature_group_name" : "com.bancolombia.IAWSHTTPIIB10.Feature.feature.group",
+                "nl_feature_group_name" : "com.bancolombia.IAWSHTTPIIB10.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/IAWSHTTPIIB10.patternzip",
+                "patternzipSize" : "179 KB"
+              }
+            ]
+        },		
 		{
             "id" : "com.bancolombia.IAMQIIB10",
             "name": "Integration Adapter MQ",
