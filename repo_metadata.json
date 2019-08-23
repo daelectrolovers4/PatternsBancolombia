@@ -91,7 +91,7 @@
         },
 		{
             "id" : "com.bancolombia.IAWSHTTPIIB10",
-            "name": "Integration Adapter WS - SOAP",
+            "name": "Integration Adapter WS - HTTP/S",
             "category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",            
             "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/pattern.doc/overview.htm",
             "ibm_supported": false,
