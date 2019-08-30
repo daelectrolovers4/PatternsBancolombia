@@ -1,148 +1,156 @@
 {
-    "pattern_categories" :
-     [
-        {
-            "id": "com.ibm.etools.pattern",
-            "name": "Patterns",
-            "parent_category_id": null,
-            "doc_url": null
-        },
-        {
-            "id": "com.ibm.etools.pattern.bancolombia.services",
-            "name": "Services",
-            "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": null
-        },
-        {
-            "id": "com.ibm.etools.pattern.bancolombia.services.components",
-            "name": "Services Components",
-            "parent_category_id": "com.ibm.etools.pattern.bancolombia.services",
-            "doc_url": null
-        },
-        {
-            "id": "com.ibm.etools.pattern.bancolombia.components",
-            "name": "Components",
-            "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": null
-        },
-        {
-            "id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
-            "name": "Integration Adapters",
-            "parent_category_id": "com.ibm.etools.pattern.bancolombia.components",
-            "doc_url": null
-        }
-     ],
-
-    "patterns": [
-        {
-            "id" : "com.bancolombia.ServiceMediatorIIB10",
-            "name": "Service Mediator",
-            "category_id": "com.ibm.etools.pattern.bancolombia.services.components",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.1.0.0/pattern.doc/overview.htm",
-            "ibm_supported": false,
-            "versions" :
-            [
-			  { "number" : 1.0,
-                "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.feature.group",
-                "nl_feature_group_name" : "com.bancolombia.ServiceMediatorIIB10.Feature.NL.feature.group",
-                "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.1.0.0/ServiceMediatorIIB10.patternzip",
-                "patternzipSize" : "337 KB"
-              }
-			  
-            ]
-        },
+	"pattern_categories": [
 		{
-            "id" : "com.bancolombia.ConsumerMediatorIIB10",
-            "name": "Consumer Mediator",
-            "category_id": "com.ibm.etools.pattern.bancolombia.services.components",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.6/pattern.doc/overview.htm",
-            "ibm_supported": false,
-            "versions" :
-            [
-              { "number" : 1.0,
-                "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.feature.group",
-                "nl_feature_group_name" : "com.bancolombia.ConsumerMediatorIIB10.Feature.NL.feature.group",
-                "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.6/ConsumerMediatorIIB10.patternzip",
-                "patternzipSize" : "17725 KB"
-              }
-            ]
-        },
+			"id": "com.ibm.etools.pattern",
+			"name": "Patterns",
+			"parent_category_id": null,
+			"doc_url": null
+		},
 		{
-            "id" : "com.bancolombia.IAWSSOAPIIB10",
-            "name": "Integration Adapter WS - SOAP",
-            "category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSSOAPIIB10/pattern.doc/overview.htm",
-            "ibm_supported": false,
-            "versions" :
-            [
-              { "number" : 1.0,
-                "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.bancolombia.IAWSSOAPIIB10.Feature.feature.group",
-                "nl_feature_group_name" : "com.bancolombia.IAWSSOAPIIB10.Feature.NL.feature.group",
-                "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSSOAPIIB10/IAWSSOAPIIB10.patternzip",
-                "patternzipSize" : "179 KB"
-              }
-            ]
-        },
+			"id": "com.ibm.etools.pattern.bancolombia.services",
+			"name": "Services",
+			"parent_category_id": "com.ibm.etools.pattern",
+			"doc_url": null
+		},
 		{
-            "id" : "com.bancolombia.IAWSHTTPIIB10",
-            "name": "Integration Adapter WS - HTTP/S",
-            "category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/pattern.doc/overview.htm",
-            "ibm_supported": false,
-            "versions" :
-            [
-              { "number" : 1.0,
-                "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.bancolombia.IAWSHTTPIIB10.Feature.feature.group",
-                "nl_feature_group_name" : "com.bancolombia.IAWSHTTPIIB10.Feature.NL.feature.group",
-                "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/IAWSHTTPIIB10.patternzip",
-                "patternzipSize" : "179 KB"
-              }
-            ]
-        },		
+			"id": "com.ibm.etools.pattern.bancolombia.services.components",
+			"name": "Services Components",
+			"parent_category_id": "com.ibm.etools.pattern.bancolombia.services",
+			"doc_url": null
+		},
 		{
-            "id" : "com.bancolombia.IAWSHTTPAsyncIIB10",
-            "name": "Integration Adapter WS - HTTP/S Asíncrono,
-            "category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPAsyncIIB10/pattern.doc/overview.htm",
-            "ibm_supported": false,
-            "versions" :
-            [
-              { "number" : 1.0,
-                "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.bancolombia.IAWSHTTPAsyncIIB10.Feature.feature.group",
-                "nl_feature_group_name" : "com.bancolombia.IAWSHTTPAsyncIIB10.Feature.NL.feature.group",
-                "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPAsyncIIB10/IAWSHTTPAsyncIIB10.patternzip",
-                "patternzipSize" : "209 KB"
-              }
-            ]
-        },		
+			"id": "com.ibm.etools.pattern.bancolombia.components",
+			"name": "Components",
+			"parent_category_id": "com.ibm.etools.pattern",
+			"doc_url": null
+		},
 		{
-            "id" : "com.bancolombia.IAMQIIB10",
-            "name": "Integration Adapter MQ",
-            "category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",            
-            "doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAMQIIB10/pattern.doc/overview.htm",
-            "ibm_supported": false,
-            "versions" :
-            [
-              { "number" : 1.0,
-                "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.bancolombia.IAMQIIB10.Feature.feature.group",
-                "nl_feature_group_name" : "com.bancolombia.IAMQIIB10.Feature.NL.feature.group",
-                "qualifier" : "1.0.0.0",
-                "patternzipURL" : "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAMQIIB10/IAMQIIB10.patternzip",
-                "patternzipSize" : "180 KB"
-              }
-            ]
-        }
-		
-    ]
+			"id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
+			"name": "Integration Adapters",
+			"parent_category_id": "com.ibm.etools.pattern.bancolombia.components",
+			"doc_url": null
+		}
+	],
+	"patterns": [
+		{
+			"id": "com.bancolombia.ServiceMediatorIIB10",
+			"name": "Service Mediator",
+			"category_id": "com.ibm.etools.pattern.bancolombia.services.components",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.1.0.0/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.ServiceMediatorIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.ServiceMediatorIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.1.0.0/ServiceMediatorIIB10.patternzip",
+					"patternzipSize": "337 KB"
+				}
+			]
+		},
+		{
+			"id": "com.bancolombia.ConsumerMediatorIIB10",
+			"name": "Consumer Mediator",
+			"category_id": "com.ibm.etools.pattern.bancolombia.services.components",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.6/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.ConsumerMediatorIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.ConsumerMediatorIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.6/ConsumerMediatorIIB10.patternzip",
+					"patternzipSize": "17725 KB"
+				}
+			]
+		},
+		{
+			"id": "com.bancolombia.IAWSSOAPIIB10",
+			"name": "Integration Adapter WS - SOAP",
+			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSSOAPIIB10/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.IAWSSOAPIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.IAWSSOAPIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSSOAPIIB10/IAWSSOAPIIB10.patternzip",
+					"patternzipSize": "179 KB"
+				}
+			]
+		},
+		{
+			"id": "com.bancolombia.IAWSHTTPIIB10",
+			"name": "Integration Adapter WS - HTTP/S",
+			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.IAWSHTTPIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.IAWSHTTPIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPIIB10/IAWSHTTPIIB10.patternzip",
+					"patternzipSize": "179 KB"
+				}
+			]
+		},
+		{
+			"id": "com.bancolombia.IAWSHTTPAsyncIIB10",
+			"name": "Integration Adapter WS - HTTP/S Asíncrono",
+			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPAsyncIIB10/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.IAWSHTTPAsyncIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.IAWSHTTPAsyncIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPAsyncIIB10/IAWSHTTPAsyncIIB10.patternzip",
+					"patternzipSize": "209 KB"
+				}
+			]
+		},
+		{
+			"id": "com.bancolombia.IAMQIIB10",
+			"name": "Integration Adapter MQ",
+			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAMQIIB10/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.IAMQIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.IAMQIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAMQIIB10/IAMQIIB10.patternzip",
+					"patternzipSize": "180 KB"
+				}
+			]
+		}
+	]
 }
