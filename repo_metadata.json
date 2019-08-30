@@ -114,7 +114,7 @@
 		},
 		{
 			"id": "com.bancolombia.IAWSHTTPAsyncIIB10",
-			"name": "Integration Adapter WS - HTTP/S Asíncrono",
+			"name": "Integration Adapter WS - HTTP/S Asincrono",
 			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationadapters",
 			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAWSHTTPAsyncIIB10/pattern.doc/overview.htm",
 			"ibm_supported": false,
