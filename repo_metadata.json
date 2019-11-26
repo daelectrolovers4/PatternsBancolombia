@@ -29,6 +29,12 @@
 			"name": "Integration Adapters",
 			"parent_category_id": "com.ibm.etools.pattern.bancolombia.components",
 			"doc_url": null
+		},
+		{
+			"id": "com.ibm.etools.pattern.bancolombia.components.integrationcomponents",
+			"name": "Integration Components",
+			"parent_category_id": "com.ibm.etools.pattern.bancolombia.components",
+			"doc_url": null
 		}
 	],
 	"patterns": [
@@ -148,6 +154,26 @@
 					"nl_feature_group_name": "com.bancolombia.IAMQIIB10.Feature.NL.feature.group",
 					"qualifier": "1.0.0.0",
 					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/IAMQIIB10/IAMQIIB10.patternzip",
+					"patternzipSize": "180 KB"
+				}
+			]
+		},
+		{
+			"id": "com.bancolombia.ICIASTIIB10",
+			"name": "Integration Component IAST",
+			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationcomponents",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ICIASTIIB10/pattern.doc/overview.htm",
+			"ibm_supported": false,
+			"versions": [
+				{
+					"number": 1.0,
+					"valid_for_product_version": [
+						"10*"
+					],
+					"feature_group_name": "com.bancolombia.ICIASTIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.ICIASTIIB10.Feature.NL.feature.group",
+					"qualifier": "1.0.0.0",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ICIASTIIB10/ICIASTIIB10.patternzip",
 					"patternzipSize": "180 KB"
 				}
 			]
