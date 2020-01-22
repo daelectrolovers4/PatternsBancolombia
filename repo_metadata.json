@@ -159,10 +159,10 @@
 			]
 		},
 		{
-			"id": "com.bancolombia.ICIASTIIB10",
-			"name": "Integration Component IAST",
+			"id": "com.bancolombia.CAIASTIIB10",
+			"name": "Channel Adapter IAST",
 			"category_id": "com.ibm.etools.pattern.bancolombia.components.integrationcomponents",
-			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ICIASTIIB10/pattern.doc/overview.htm",
+			"doc_url": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.0/CAIASTIIB10/pattern.doc/overview.htm",
 			"ibm_supported": false,
 			"versions": [
 				{
@@ -170,10 +170,10 @@
 					"valid_for_product_version": [
 						"10*"
 					],
-					"feature_group_name": "com.bancolombia.ICIASTIIB10.Feature.feature.group",
-					"nl_feature_group_name": "com.bancolombia.ICIASTIIB10.Feature.NL.feature.group",
+					"feature_group_name": "com.bancolombia.CAIASTIIB10.Feature.feature.group",
+					"nl_feature_group_name": "com.bancolombia.CAIASTIIB10.Feature.NL.feature.group",
 					"qualifier": "1.0.0.0",
-					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/1.0.0.0/ICIASTIIB10/ICIASTIIB10.patternzip",
+					"patternzipURL": "http://dear.bancolombia.corp/GAS_Dllo_Doc/IIB10/Patterns/2.0.0.0/CAIASTIIB10/CAIASTIIB10.patternzip",
 					"patternzipSize": "180 KB"
 				}
 			]
